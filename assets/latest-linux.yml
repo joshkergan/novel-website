@@ -1,0 +1,9 @@
+version: 0.1.0
+files:
+  - url: novel-client-0.1.0-x86_64.AppImage
+    sha512: 2HxetdCi90aVl+0qG1GfTTcXHbvGzVNDWGPZ4KW42sw+UuT7K6q0ekGMRjb+EvSXWWhochG2y7gMir/WwPoTNA==
+    size: 52350501
+    blockMapSize: 55145
+path: novel-client-0.1.0-x86_64.AppImage
+sha512: 2HxetdCi90aVl+0qG1GfTTcXHbvGzVNDWGPZ4KW42sw+UuT7K6q0ekGMRjb+EvSXWWhochG2y7gMir/WwPoTNA==
+releaseDate: '2018-03-07T16:12:09.471Z'
