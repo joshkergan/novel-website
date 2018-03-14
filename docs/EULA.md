@@ -2,9 +2,9 @@
 
 # End-User License Agreement ("Agreement")
 
-Last updated: February 28, 2018
-Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, downloading or using Novel Writer ("Application").
-By clicking the "I Agree" button, downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
+Last updated: March 7, 2018
+Please read this End-User License Agreement ("Agreement") carefully before downloading or using Novel Writer ("Application").
+By downloading or using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
 This Agreement is a legal agreement between you (either an individual or a single entity) and Novel Writer and it governs your use of the Application made available to you by Novel Writer.
 If you do not agree to the terms of this Agreement, do not click on the "I Agree" button and do not download or use the Application.
 The Application is licensed, not sold, to you by Novel Writer for use strictly in accordance with the terms of this Agreement. EULA for Novel Writer based on the [EULA example from TermsFeed](https://termsfeed.com/blog/sample-eula-template/).
@@ -35,6 +35,10 @@ By continuing to access or use our Application after any revisions become effect
 ## Governing Law
 
 The laws of Ontario, Canada, excluding its conflicts of law rules, shall govern this Agreement and your use of the Application. Your use of the Application may also be subject to other local, state, national, or international laws.
+
+## User Information
+
+Novel Insights does not permanently store any data related to the text content being sent to the server. Usage statistics may be collected purely to determine total user count.
 
 ## Contact Information
 
